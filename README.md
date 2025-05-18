@@ -1,4 +1,5 @@
 💼 Job Scraper using Apify API
+
 This Python script uses the Apify API to scrape job listings based on a specified job position, country, and location. The extracted job data is saved into a CSV file and optionally printed to the console.
 
 📌 Features
